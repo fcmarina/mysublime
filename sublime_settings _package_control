@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Browser Refresh",
+		"Git",
+		"GitGutter",
+		"GitSavvy",
+		"Go To Definition",
+		"Minifier",
+		"Minify",
+		"Package Control",
+		"PHP Companion",
+		"PhpDoc",
+		"PlainTasks",
+		"SublimeLinter-phplint",
+		"TrailingSpaces"
+	]
+}

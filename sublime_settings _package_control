@@ -18,6 +18,14 @@
 		"PhpDoc",
 		"PlainTasks",
 		"SublimeLinter-phplint",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"DocBlockr",
+		"Indent XML",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"Symfony2 Snippets",
+		"xml2json",
+		"PhpNamespace",
+		
 	]
 }
